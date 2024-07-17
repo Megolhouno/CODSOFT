@@ -1,3 +1,6 @@
+CodSoft Internship Projects
+
+
 Welcome to my GitHub repository showcasing the projects completed during my internship at CodSoft. Below are details of the tasks I worked on:
 
 Projects
@@ -43,4 +46,3 @@ Input Validation
 Learnings:
 Strengthened object-oriented programming skills, file I/O operations, and user interface design.
 
-How to Run
